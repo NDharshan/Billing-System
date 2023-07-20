@@ -1,0 +1,6 @@
+Water Bill Details
+------------------
+Consumer Type: Domestic
+Consumption: 2600 kl
+Water Bill: Rs 18200
+

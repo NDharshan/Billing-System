@@ -1,0 +1,6 @@
+Name: Kamala Srinivas 
+Usage Details:
+Previous Month: 300 units
+Current Month: 450 units
+Total Usage: 150 units
+Bill Amount: Rs 1450
