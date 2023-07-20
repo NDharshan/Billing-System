@@ -1,2 +1,3 @@
 # Billing-System
-Mini Project
+
+The Billing Application for Utilities Management is a command-line-based tool that simplifies the process of generating and managing electric and water bills. Developed using shell scripting, the user-friendly interface allows billing authorities to efficiently calculate bills, record customer data, and manage billing histories. This tool enhances ease of access and view. The application allows billing authorities to generate electric and water bills according to predefined pricing structures, customize pricing tiers, and optimize resource allocation. The application also features a convenient customer database, enhancing customer relationship management and facilitating easy access to past billing history. The lightweight nature and minimal dependencies make it easy to deploy and maintain across various platforms. 
